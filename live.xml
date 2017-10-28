@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<pages>
+    <link>
+        <title>tims tag</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=person</url>
+    </link>
+    <link>
+         <title>about tag</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=about</url>
+    </link>
+    <link>
+        <title>Image editor</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=ImageEditer</url>
+    </link>
+    <link>
+        <title>scraping the net</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=phpScraping</url>
+    </link>
+    <link>
+        <title>draw editor</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=drawEditor</url>
+    </link>
+    <link>
+        <title>Questions and answers</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=QandA</url>
+    </link>
+     <link>
+        <title>bar graph's</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=graph_bar</url>
+    </link>
+    <link>
+        <title>Tutorial</title>
+        <url>http://localhost/TimsDevelopment/template/anna.php/?action=tutorial</url>
+    </link>
+</pages>

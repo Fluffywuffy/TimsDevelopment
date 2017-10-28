@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 11, 2017, 4:19:17 AM
+    Author     : gail
+*/
+#header {
+  background-color: red;
+  text-align: center;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  height: 100px;
+  margin-top: 20px; }
+
+#menu {
+  background-color: red;
+  border-bottom: 2px solid black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  margin-bottom: 20px; 
+}
+
+/*# sourceMappingURL=header.css.map */
+#headerName {
+    font-size: 28px;
+  
+}
